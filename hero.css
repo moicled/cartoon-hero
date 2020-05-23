@@ -37,13 +37,13 @@ a{
     color:#2A044B;
 }
 a:hover{
-    color:white;
+    color:#33FF58;
     background-color:"#33FF58";
 }
 footer{
     background-color:#33FF58;
     text-align: center;
-    color:white;
+    color: white;
 }
 footer a{
     color: white:
