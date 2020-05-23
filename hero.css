@@ -31,12 +31,24 @@ main img{
 }
 h2{
     font-size: 30px;
-    color:#33FF58
+    color:#33FF58;
 }
 a{
-    color:#2A044B
+    color:#2A044B;
 }
 a:hover{
     color:white;
-    background-color:"#33FF58"
+    background-color:"#33FF58";
+}
+footer{
+    background-color:#33FF58;
+    text-align: center;
+    color:white;
+}
+footer a{
+    color: white:
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
 }
